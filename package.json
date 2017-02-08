@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "artyom.js": "^1.0.1",
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
     "react": "^0.14.7",
